@@ -1,0 +1,6 @@
+{
+  "name": "Ind AS 12 Tax Reconciliation Extractor",
+  "description": "Automated extraction and audit tool for tax-reconciliation disclosures from Indian listed company annual reports into standardized JSON format.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
